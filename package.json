@@ -36,7 +36,7 @@
     "webmake": "~0.3.19"
   },
   "devDependencies": {
-    "webmake": "~0.3.19",
+    "webmake": "~0.4.0",
     "tad": "~0.1.15"
   },
   "license": "MIT"
